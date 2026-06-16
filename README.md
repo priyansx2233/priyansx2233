@@ -18,8 +18,8 @@
 <a href="https://instagram.com/priyansxx2233" target="blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyansxx2233" height="30" width="40" />
 </a>
-<a href="https://www.leetcode.com/priyansx_2233" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyansx_2233" height="30" width="40" />
+<a href="https://www.leetcode.com/priyansx2233" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="priyansx2233" height="30" width="40" />
 </a>
 </p>
 
@@ -54,9 +54,9 @@
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansx2233&show_icons=true&locale=en&layout=compact" alt="priyansx_2233" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansx2233&show_icons=true&locale=en&layout=compact" alt="priyansx2233" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyansx_2233&show_icons=true&locale=en" alt="priyansx_2233" /></p></a> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyansx2233&show_icons=true&locale=en" alt="priyansx2233" /></p></a> 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
 </a> 
@@ -65,6 +65,6 @@
 </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansx2233&show_icons=true&locale=en&layout=compact" alt="priyansx_2233" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyansx2233&show_icons=true&locale=en&layout=compact" alt="priyansx2233" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyansx_2233&show_icons=true&locale=en" alt="priyansx_2233" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyansx2233&show_icons=true&locale=en" alt="priyansx2233" /></p>

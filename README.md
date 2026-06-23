@@ -100,20 +100,6 @@
 
 ---
 
-## 🧩 LeetCode Stats
-
-<p align="center">
-  <a href="https://leetcode.com/priyansx_2233/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/Priyansx_2233?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats Card" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=Priyansx_2233&theme=dark" alt="LeetCode Badges" />
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Live |

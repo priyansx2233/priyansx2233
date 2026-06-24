@@ -11,13 +11,11 @@
 ---
 
 ## 🙋‍♂️ About Me
-
-- 🔭 Currently building **[Tru Lens](https://github.com/priyansx2233)** — a project pushing the boundaries of real-time data
 - 🌱 Actively exploring **AI Automation** and integrating LLMs into full-stack workflows
 - 💡 Passionate about **competitive programming**, clean architecture, and developer experience
 - 🧠 Strong foundations in **C++ / DSA** with hands-on experience in **JavaScript ecosystems**
 - 📫 Reach me at **priyanshuojha291@gmail.com**
-- ⚡ Fun fact: *I'm funnier than my code — most of the time 😄*
+
 
 ---
 

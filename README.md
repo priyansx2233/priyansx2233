@@ -103,6 +103,7 @@
 | Project | Description | Tech Stack | Live |
 |--------|-------------|------------|------|
 | **Regex Studio** | Interactive regex builder & tester with real-time match highlighting | React, Vite, Node.js, Express | [Demo](https://regex-studio-seven.vercel.app) |
+| **stegokit** | A encryptive tool to hide and secure text/picture in picture/text with real analysis and one click |[Demo](https://stegokit.vercel.app/)|
 | **Tru Lens** | *(In Progress)* Full-stack project exploring real-time data pipelines | TBD | WIP |
 
 > 💡 *More projects on my [GitHub profile](https://github.com/priyansx2233)*

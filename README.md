@@ -1,51 +1,120 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1DB954&height=180&section=header&text=PRIYANSHU&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=62&descSize=18" alt="Priyanshu banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1DB954&height=180&section=header&text=PRIYANSHU&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=62&descSize=18" alt="Priyanshu banner" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Priyanshu;Full-Stack+Developer+from+India;Competitive+Programmer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
-</h1>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=650&lines=Building+full-stack+products+end+to+end;React+%E2%80%A2+Node.js+%E2%80%A2+C%2B%2B+%E2%80%A2+DSA;Currently+building+VibeStream+%26+Ren+Lang" alt="Typing SVG" />
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=priyansx2233&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/priyansx2233?label=Followers&style=flat-square&color=0e75b6" alt="Followers" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI%20Automation-brightgreen?style=flat-square" alt="Focus" />
+  <img src="https://komarev.com/ghpvc/?username=priyansx2233&label=Profile%20Views&color=0E75B6&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/priyansx2233?label=Followers&style=for-the-badge&color=0E75B6" alt="Followers" />
+  <img src="https://img.shields.io/badge/Open%20to-Internships-1DB954?style=for-the-badge" alt="Open to Internships" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI%20Automation-0E75B6?style=for-the-badge" alt="Focus" />
 </p>
 
----
+<br/>
 
-## 🙋‍♂️ About Me
-- 🌱 Actively exploring **AI Automation** and integrating LLMs into full-stack workflows
-- 💡 Passionate about **competitive programming**, clean architecture, and developer experience
-- 🧠 Strong foundations in **C++ / DSA** with hands-on experience in **JavaScript ecosystems**
-- 📫 Reach me at **priyanshuojha291@gmail.com**
+## 🙋 About
 
----
+Full-stack developer and CS student from India, building products end to end — from interface to backend. Equally at home designing clean UI and untangling hard algorithmic problems.
 
-## 🐍 Contribution Snake
+- 🎯 Currently seeking **Frontend / Full-Stack internship** opportunities
+- 🛠️ Building **VibeStream** (multimedia app) and **Ren Lang** (a custom programming language)
+- 🧩 Strong DSA foundations in C++ — active on LeetCode & Codeforces
+- 🌱 Exploring AI automation and LLM-integrated workflows
+- 📫 **priyanshuojha291@gmail.com**
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+
+</td>
+<td valign="top" width="33%">
+
+**Frontend**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+
+</td>
+<td valign="top" width="33%">
+
+**Backend & Tools**
+<br/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyansx2233/priyansx2233/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyansx2233/priyansx2233/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/priyansx2233/priyansx2233/output/github-contribution-grid-snake.svg" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=priyansx2233&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansx2233&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
 </p>
 
-> ⚙️ This is generated automatically by a GitHub Action that eats through your real contribution graph every day. **Setup steps are below** — it won't render until you add the workflow to your `priyansx2233/priyansx2233` repo.
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansx2233&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
----
+<br/>
 
-## 📈 LeetCode Rating &nbsp;&nbsp;×&nbsp;&nbsp; GitHub Activity
+## 📈 LeetCode Rating &nbsp;×&nbsp; GitHub Activity
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Priyansx_2233?theme=nord&ext=contest" alt="LeetCode Contest Rating" height="300" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansx2233&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" height="300" />
 </p>
 
----
+<br/>
 
-## 🔗 Connect With Me
+## 🏆 Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=priyansx2233&theme=tokyonight&column=-1&margin-w=15&margin-h=15" alt="Trophies" />
+  </a>
+</p>
+
+<br/>
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Stack | Status |
+|---|---|---|---|
+| **[Regex Studio](https://regex-studio-seven.vercel.app)** | Interactive regex builder & tester with real-time match highlighting | React, Vite, Node.js, Express | 🟢 Live |
+| **[stegokit](https://stegokit.vercel.app/)** | Hides and secures text/images inside pictures with real analysis, one click | React, Vite, Node.js, Express, LSB-2 | 🟢 Live |
+| **VibeStream** | Multimedia app — messaging, curated news, music streaming, reels, podcasts | HTML, CSS, JavaScript | 🟡 In Progress |
+| **Ren Lang** | Custom programming language with a browser-based playground | TBD | 🟡 In Progress |
+| **Tru Lens** | Full-stack project exploring real-time data pipelines | TBD | 🟡 In Progress |
+
+<p align="center"><i>More on my <a href="https://github.com/priyansx2233">GitHub profile</a></i></p>
+
+<br/>
+
+## 📬 Connect With Me
 
 <p align="center">
   <a href="mailto:priyanshuojha291@gmail.com" target="_blank">
@@ -62,80 +131,12 @@
   </a>
 </p>
 
----
-
-## 🛠️ Tech Stack
-
-### Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-### Frontend
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
-</p>
-
-### Backend & Tools
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=priyansx2233&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priyansx2233&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansx2233&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyansx2233&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="Trophies" />
-  </a>
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack | Live |
-|--------|-------------|------------|------|
-| **Regex Studio** | Interactive regex builder & tester with real-time match highlighting | React, Vite, Node.js, Express | [Demo](https://regex-studio-seven.vercel.app) |
-| **stegokit** | Encryptive tool to hide and secure text/pictures inside pictures/text with real analysis, one click | React, Vite, Node.js, Express, LSB-2 Algo | [Demo](https://stegokit.vercel.app/) |
-| **VibeStream** | *(In Progress)* Multimedia app — messaging, curated news, music streaming, reels, podcasts | HTML/CSS/JS | WIP |
-| **Ren Lang** | *(In Progress)* Custom programming language with a browser-based playground | TBD | WIP |
-| **Tru Lens** | *(In Progress)* Full-stack project exploring real-time data pipelines | TBD | WIP |
-
-> 💡 *More projects on my [GitHub profile](https://github.com/priyansx2233)*
-
----
+<br/>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i>
+  <sub><i>"Code is like humor. When you have to explain it, it's bad." — Cory House</i></sub>
 </p>

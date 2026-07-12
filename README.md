@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1DB954&height=180&section=header&text=PRIYANSHU&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20MERN%20Stack%20Enthusiast&descAlignY=62&descSize=18" alt="Priyanshu banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1DB954&height=180&section=header&text=PRIYANSHU&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=Backend%20Developer%20%E2%80%A2%20MERN%20Stack%20&descAlignY=62&descSize=18" alt="Priyanshu banner" />
 </p>
 
 <h3 align="center">

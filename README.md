@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0E75B6,100:1DB954&height=180&section=header&text=PRIYANSHU&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Competitive%20Programmer&descAlignY=62&descSize=18" alt="Priyanshu banner" />
+</p>
+
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Priyanshu;Full-Stack+Developer+from+India;Competitive+Programmer+%7C+Open+Source+Enthusiast" alt="Typing SVG" />
 </h1>
@@ -32,10 +36,10 @@
 
 ---
 
-## 📅 LeetCode Activity
+## 📈 LeetCode Rating
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Priyansx_2233?theme=nord&ext=heatmap" alt="LeetCode Heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Priyansx_2233?theme=nord&ext=contest" alt="LeetCode Contest Rating" />
 </p>
 
 ---

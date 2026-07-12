@@ -68,10 +68,6 @@ Full-stack developer and CS student from India, building products end to end —
 
 <br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansx2233&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 <br/>
 
 ## 📈 GitHub Activity

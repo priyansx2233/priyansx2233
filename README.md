@@ -22,11 +22,25 @@
 
 ---
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyansx2233/priyansx2233/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyansx2233/priyansx2233/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/priyansx2233/priyansx2233/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+> ⚙️ This is generated automatically by a GitHub Action that eats through your real contribution graph every day. **Setup steps are below** — it won't render until you add the workflow to your `priyansx2233/priyansx2233` repo.
+
+---
+
 ## 📈 LeetCode Rating &nbsp;&nbsp;×&nbsp;&nbsp; GitHub Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Priyansx_2233?theme=nord&ext=contest" alt="LeetCode Contest Rating" width="48%" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansx2233&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" width="48%" />
+  <img src="https://leetcard.jacoblin.cool/Priyansx_2233?theme=nord&ext=contest" alt="LeetCode Contest Rating" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansx2233&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" height="300" />
 </p>
 
 ---

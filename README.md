@@ -81,10 +81,9 @@ Full-stack developer and CS student from India, building products end to end —
 
 <br/>
 
-## 📈 LeetCode Rating &nbsp;×&nbsp; GitHub Activity
+## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Priyansx_2233?theme=nord&ext=contest" alt="LeetCode Contest Rating" height="300" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansx2233&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" height="300" />
 </p>
 

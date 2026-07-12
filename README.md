@@ -22,20 +22,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/priyansx2233/priyansx2233/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/priyansx2233/priyansx2233/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/priyansx2233/priyansx2233/output/github-contribution-grid-snake.svg" />
-  </picture>
-</p>
-
-> ⚙️ This is generated automatically by a GitHub Action that eats through your real contribution graph every day. **Setup steps are below** — it won't render until you add the workflow to your `priyansx2233/priyansx2233` repo.
-
----
-
 ## 📈 LeetCode Rating &nbsp;&nbsp;×&nbsp;&nbsp; GitHub Activity
 
 <p align="center">

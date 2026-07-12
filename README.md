@@ -92,11 +92,11 @@ Full-stack developer and CS student from India, building products end to end —
 
 | Project | Description | Tech Stack | Status |
 |---|---|---|---|
-| **[Regex Studio](https://regex-studio-seven.vercel.app)** | Interactive regex builder & tester with real-time match highlighting | React, Vite, Node.js, Express | 🟢 Live |
-| **[stegokit](https://stegokit.vercel.app/)** | Hides and secures text/images inside pictures with real analysis, one click | React, Vite, Node.js, Express, LSB-2 | 🟢 Live |
-| **VibeStream** | Multimedia app — messaging, curated news, music streaming, reels, podcasts | HTML, CSS, JavaScript | 🟡 In Progress |
-| **Ren Lang** | Custom programming language with a browser-based playground | TBD | 🟡 In Progress |
-| **Tru Lens** | Full-stack project exploring real-time data pipelines | TBD | 🟡 In Progress |
+| **[Regex Studio](https://regex-studio-seven.vercel.app)** | Interactive regex builder & tester with real-time match highlighting | React, Vite, Node.js, Express | Live(https://regex-studio-seven.vercel.app) |
+| **[stegokit](https://stegokit.vercel.app/)** | Hides and secures text/images inside pictures with real analysis, one click | React, Vite, Node.js, Express, LSB-2 | **Live(https://stegokit.vercel.app/)** |
+| **VibeStream** | Multimedia app — messaging, curated news, music streaming, reels, podcasts | HTML, CSS, JavaScript |  In Progress |
+| **Ren Lang(https://renlang.vercel.app)** | Custom programming language with a browser-based playground | TBD | **Live(https://renlang.vercel.app)**|
+| **Tru Lens** | Full-stack project exploring real-time data pipelines | TBD |  In Progress |
 
 <p align="center"><i>More on my <a href="https://github.com/priyansx2233">GitHub profile</a></i></p>
 

@@ -36,21 +36,12 @@
 
 ---
 
-## 📈 LeetCode Rating
+## 📈 LeetCode Rating &nbsp;&nbsp;×&nbsp;&nbsp; GitHub Activity
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Priyansx_2233?theme=nord&ext=contest" alt="LeetCode Contest Rating" />
+  <img src="https://leetcard.jacoblin.cool/Priyansx_2233?theme=nord&ext=contest" alt="LeetCode Contest Rating" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansx2233&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" width="48%" />
 </p>
-
----
-
-## 🎯 Currently Building
-
-```text
-🔭  VibeStream   → multimedia app: chat + news + music + reels + podcasts
-🧠  Ren Lang     → custom programming language with a browser playground
-📈  DSA Grind    → 65-problem roadmap, sliding window & DFS/BFS focus
-```
 
 ---
 
@@ -115,19 +106,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=priyansx2233&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-### 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansx2233&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
-</p>
-
 ---
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyansx2233&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=priyansx2233&theme=tokyonight&row=2&column=4&margin-w=15&margin-h=15&no-bg=false&no-frame=false" alt="Trophies" />
   </a>
 </p>
 

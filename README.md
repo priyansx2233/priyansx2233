@@ -74,16 +74,6 @@ const priyanshu = {
 
 <br/>
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=priyansx2233&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/0E75B6/priyansx2233" alt="GitHub Contribution Chart" />
-</p>
-
 ## 🏆 Trophies
 
 <p align="center">

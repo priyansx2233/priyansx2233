@@ -8,7 +8,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=priyansx2233&label=Profile%20Views&color=0E75B6&style=for-the-badge" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/priyansx2233?label=Followers&style=for-the-badge&color=0E75B6" alt="Followers" />
   <img src="https://img.shields.io/badge/Open%20to-Internships-1DB954?style=for-the-badge" alt="Open to Internships" />
   <img src="https://img.shields.io/badge/Focus-Backend%20Dev%20%26%20DSA-0E75B6?style=for-the-badge" alt="Focus" />
 </p>

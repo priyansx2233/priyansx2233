@@ -77,20 +77,20 @@ const priyanshu = {
 ## 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=priyansx2233&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" height="300" />
+  <img src="https://streak-stats.demolab.com/?user=priyansx2233&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://ghchart.rshah.org/0E75B6/priyansx2233" alt="GitHub Contribution Chart" />
+</p>
 
 ## 🏆 Trophies
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priyansx2233&theme=tokyonight&column=-1&margin-w=15&margin-h=15" alt="Trophies" />
+    <img src="https://YOUR-DEPLOYMENT.vercel.app/?username=priyansx2233&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </p>
-
-<br/>
 
 ## 🚀 Featured Projects
 

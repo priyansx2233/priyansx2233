@@ -74,14 +74,6 @@ const priyanshu = {
 
 <br/>
 
-## 🏆 Trophies
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://YOUR-DEPLOYMENT.vercel.app/?username=priyansx2233&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="Trophies" />
-  </a>
-</p>
-
 ## 🚀 Featured Projects
 
 | Project | Description | Tech Stack | Status |
